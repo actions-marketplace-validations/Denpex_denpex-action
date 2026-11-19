@@ -34,4 +34,10 @@ jobs:
 
 - Writes `$GITHUB_STEP_SUMMARY` and upserts sticky PR comments marked with `<!-- denpex-gpu-ci-diagnosis -->`.
 - Links directly to the 30-day B2B Team Trial (`https://denpex.com/pricing?utm_source=github_action_pr`).
-- Synchronized automatically with `L:\Saas Web App Fix For GPU servers\action.yml` via `npm run sync:all-surfaces`.
+- Synchronized automatically with `action.yml` via `npm run sync:all-surfaces`.
+
+## Free Browser Calculators & References
+
+- **63-Model GQA/MLA LLM VRAM Calculator:** [denpex.com/tools/vram-calculator](https://denpex.com/tools/vram-calculator)
+- **Zero-Upload Browser GPU Log Analyzer:** [denpex.com/tools/gpu-log-analyzer](https://denpex.com/tools/gpu-log-analyzer)
+- **NVIDIA Xid Error Directory & RMA Guide:** [denpex.com/xid](https://denpex.com/xid)
